@@ -108,14 +108,6 @@ Upload a CT image and select either **CNN** or **SVM** to get a prediction insta
 
 ---
 
-## 👤 Author
-
-**Your Name Here**  
-📧 your.email@example.com  
-🐙 GitHub: [yourusername](https://github.com/yourusername)
-
----
-
 ## 📄 License
 
 MIT License. Feel free to use and modify.
